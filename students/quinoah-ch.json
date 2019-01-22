@@ -1,0 +1,14 @@
+{
+    "firstName": "Noah",
+    "lastName": "Clarke-Howes",
+    "nickName": "Quinoah",
+    "privateName": false,
+    "picture": "quinoah-ch.jpg",
+    "privatePicture": false,
+    "email": "noah.clarke.howes@mail.utoronto.ca",
+    "privateEmail": false,
+    "github": "quinoah-ch",
+    "privateGithub": false,
+    "superpower" : "Carrying all the groceries in one trip... on my bike.",
+    "academicinterests": "History, urban history, urban geography, urban historical geography."
+  }

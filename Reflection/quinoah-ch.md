@@ -1,0 +1,18 @@
+# Reflection
+
+Respond to each of the questions below with a carefully thought out reflection on the assignment.
+
+## Question 1
+#### In this assignment, we used your user input to construct a small website composed of flipping cards. Can you think of a more interesting use for this basic layout? The use you describe should serve some pedagogical or research-oriented purpose for historians or humanists
+
+#### A webpage structured as a grid of “flipping cards” that goes something like “photo” —> “info” could be used to display and organize historically significant architecture and urban design. A page could be city specific, the grid of images showing buildings, parks, streets, etc. that belong to that city. On the reverse of the cards could be information like dates, designers, significance, or embedded map locations. With sufficient technical know-how, the cards could be filtered by date (oldest-newest, year range, etc), location (street, neighbourhood, distance from a point), use (residential, commercial, public, civic, etc) or however else one might wish to sort through such information.
+
+## Question 2
+#### This assignment asks you all to perform a certian amount of work (describing yourselves) in order to improve a project (the course roster website). What responsibilities does the "researcher" (in this case, your teacher) have to the participants (you)? What rights do or should the participants have to the end product? 
+
+#### Because we were contributors to the project, the researcher should acknowledge that the website was generated as a collaboration with the participants. As well, the fact that the information used to generate the webpage consists of the participant’s personal information (contact info, photo, names, etc.), the participants should have the right to go back and edit changes to their profiles, set information and ‘private’, or opt-out entirely and remove their contribution. The argument could also be made that because a passing grade on the assignment was contingent on the participants providing personal information, the collected data was not gathered voluntarily. This would put additional onus on the researcher to ensure that the full extent and purpose of the project was understood by the participants, and any risks associated with their providing their info was understood.
+
+## Question 3
+#### Information in each student record was provided as a series of "fields", that is, discrete units of information separated from each other. In the use you describe above, what fields would you need to provide for each record? Can you think of any limitations or obstacles that the use of this kind of data structure imposes on your project?
+
+#### To create a similarly designed page that would display and organize historically significant architecture and urban design, the information gathered would have to be likewise discreet and quantifiable. Such figures could include the year a site was constructed, the height of a skyscraper, the capacity of an opera theatre, etc. However, other features, such as the ideological and theoretical underpinnings, political maneuvering, and negative repercussions like displacement or processes of gentrification involved with significant city-sites are not so easily quantifiable and categorizable. Often times, it is these types of features that make a site significant and worth examining in detail.
